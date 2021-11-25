@@ -1,2 +1,0 @@
-F:\study\MirrorMutiPlayer\obj\Debug\Mirror.csprojAssemblyReference.cache
-F:\study\MirrorMutiPlayer\obj\Debug\Mirror.csproj.CoreCompileInputs.cache
