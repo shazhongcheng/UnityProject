@@ -1,0 +1,2 @@
+F:\study\MirrorMutiPlayer\obj\Debug\kcp2k.csprojAssemblyReference.cache
+F:\study\MirrorMutiPlayer\obj\Debug\kcp2k.csproj.CoreCompileInputs.cache

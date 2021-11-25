@@ -1,0 +1,2 @@
+F:\study\MirrorMutiPlayer\obj\Debug\SimpleWebTransport.csprojAssemblyReference.cache
+F:\study\MirrorMutiPlayer\obj\Debug\SimpleWebTransport.csproj.CoreCompileInputs.cache
